@@ -1,6 +1,6 @@
 # hackintosh-dell-G3-3590
 戴尔G3-3590引导系统  
-`Opencore v0.7.0`
+`OC1.0.5`
 
 
 ### 硬件配置
@@ -29,9 +29,9 @@
 - 所有 USB 端口（包括 type-c, type-c可以加个扩展坞外接显示器）
 
 ### 不能工作
-- 内置麦克风
+- 内置麦克风，声卡 WIFI 蓝牙
 
 
 ### 其它问题
- 接外接显示器时唤醒灰屏，需要插拔一下外接HDMI.如果不需要外接显示器，可以 [禁用独立显卡](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/laptop-disable.html)   
+   
  或者找找有没有其它大神可以解决
